@@ -1,6 +1,7 @@
  <img src="https://github.com/ednieuw/ednieuw/assets/12166816/5a09e537-f728-4b32-af13-b721a99f6b3d">
  
-- 🔭 I’m currently working on porting word- and Fibonacci-clocks from Arduino Nano to the Arduino ESP32 Nano and use BLE and WIFI to control the MCU.
-- 🌱 I’m currently learning to use several displays with ESP32-C3, S3 and S6 MCU's
-- Retired chemical technologist worked 43 years as team leader and head of an immunological laboratorium specialysed in immunoglobulins and complement.
-- Loved developing and automating tests with RIA's, ELISA's and nephelometry. Started automating and building small LIMS's with the HP9815 RPN calculator followed by the Acorn BBC Micro, Lattice and Borland C on MS-DOS/windows OS's and MS Office Visual Basic applications.
+* I am currently engaged in adapting word- and Fibonacci-clocks from the Arduino Nano to the Arduino ESP32 Nano, utilizing BLE and WIFI for MCU control.
+* I am also learning to operate various displays with ESP32-C3, S3, and S6 MCUs.
+* As a retired chemical technologist with 43 years of experience leading a team and heading an immunological laboratory specialized in immunoglobulins and complement, I have a passion for development and automation. <br>
+My career involved innovating tests with RIA, ELISA, and nephelometry. <br>
+My journey in automation began with the HP9815 RPN calculator, progressing to the Acorn BBC Micro, and then to Lattice and Borland C on MS-DOS/Windows OS, including creating small LIMS with MS Office Visual Basic applications.
